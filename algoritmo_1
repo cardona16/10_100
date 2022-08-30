@@ -1,0 +1,5 @@
+nombre="Juan"
+curso="Python"
+ano=2005
+edad=2022-ano
+print("hola ",nombre," estas en el curso de", curso, "tienes", edad)
