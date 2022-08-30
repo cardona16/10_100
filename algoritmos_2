@@ -1,0 +1,5 @@
+nombre=input("ingresa tu nombre:")
+curso=input("ingrese el curso:")
+ano=int(input("ingrese su año de nacimiento:"))
+edad=2022-ano
+print("hola ",nombre," estas en el curso de", curso, "tienes", edad, "años")
