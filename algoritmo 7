@@ -1,0 +1,5 @@
+nota=float(input("ingrese nota:"))
+if nota >=3.0:
+    print("aprobo")
+else:
+    print("reprobo")
