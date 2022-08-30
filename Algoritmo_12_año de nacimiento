@@ -1,0 +1,4 @@
+nombre=input("ingrese su nombre:")
+edad=int(input("ingrese su edad:"))
+ano=2022-edad
+print("Hola", nombre, "naciste en el año", ano)
