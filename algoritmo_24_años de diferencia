@@ -1,0 +1,6 @@
+nombre=input("ingrese nombre:")
+edad=int(input("año de nacimiento:"))
+nombre2=input("ingrese nombre:")
+edad2=int(input("año de nacimiento:"))
+diferencia=edad-edad2
+print("hola tienen",diferencia,"años de diferencia")
