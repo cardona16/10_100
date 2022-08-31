@@ -1,0 +1,4 @@
+precio=float(input("ingrese precio:"))
+pago=float(input("cuanto dinero dio:"))
+cambio=precio-pago
+print("el cambio es:",cambio)
