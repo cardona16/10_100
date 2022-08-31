@@ -1,0 +1,6 @@
+nombre=input("ingrese su nombre:")
+tiempo=int(input("ingrese tiempo de visualizacion:"))
+if tiempo >= 60:
+    print("gana 300 puntos canjeables")
+else:
+    print("no gana nada")
