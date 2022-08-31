@@ -1,0 +1,6 @@
+nombre=input("ingrese nombre:")
+problemas=input("¿tiene problemas visuales?:")
+if problemas=="si":
+    print("no puede tener licencia")
+else:
+    print("puede tener licencia")
