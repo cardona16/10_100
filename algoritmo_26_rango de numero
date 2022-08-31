@@ -1,0 +1,5 @@
+numero=int(input("ingrese numero:"))
+rango=range(1,numero)
+contado=0
+for i in rango:
+    print(i)
