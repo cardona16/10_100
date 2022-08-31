@@ -1,0 +1,6 @@
+nombre=input("nombre del trabajador:")
+dias=int(input("numero de dias trabjados:"))
+if dias >=8:
+    print("tiene un dia de descanso")
+else:
+    print("no tiene dia de descanso")
