@@ -1,0 +1,6 @@
+nombre=input("ingrese su nombre:")
+vida=input("tiene vida crediticia?:")
+if  vida =="si":
+    print("su credito es aprobado")
+else:
+    print("su credito no es aprobado")
