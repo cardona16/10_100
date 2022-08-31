@@ -1,0 +1,4 @@
+precio=int(input("ingrese precio del galon:"))
+cantidad=int(input("ingrese cantidad de galones:"))
+total=precio*cantidad
+print("total:",total)
