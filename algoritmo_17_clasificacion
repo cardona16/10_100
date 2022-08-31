@@ -1,0 +1,6 @@
+nombre=input("ingrese nombre del competidor:")
+puntos=int(input("ingrese numero de puntos:"))
+if puntos >=10:
+    print(nombre,"clasifica")
+else:
+    print(nombre,"no clasifica")
