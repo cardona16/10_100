@@ -1,0 +1,6 @@
+nombre=input("ingrese su nombre:")
+creditos=int(input("ingrese numero de creditos:"))
+if creditos==4:
+    print("aprobo semestre")
+else:
+    print("reprobo semestre")
