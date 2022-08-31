@@ -1,0 +1,4 @@
+nombre=input("ingrese su nombre:")
+ano=1492
+diferencia=2022-ano
+print("Hola",nombre,"America fue descubierto hace",diferencia,"años por Crstóbal Cólon")
