@@ -1,0 +1,4 @@
+alarma=float(input("ingrese hora a programar:"))
+hora=float(input("ingrese hora actual:"))
+suena=alarma-hora
+print("su alarma sonara en", suena,"horas")
