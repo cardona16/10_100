@@ -1,0 +1,5 @@
+productos=int(input("productos vendidos:"))
+if productos >20:
+    print("gana comision")
+else:
+    print("no gana comision")
