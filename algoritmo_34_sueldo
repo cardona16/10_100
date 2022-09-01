@@ -1,0 +1,4 @@
+nombre=input("nombre del trabajador:")
+dias=int(input("numero de dias trabajados:"))
+sueldo=dias*30.000
+print("Hola",nombre,"su sueldo es de", sueldo)
