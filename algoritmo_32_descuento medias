@@ -1,0 +1,8 @@
+numero=int(input("numero de pares de medias:"))
+valor=2000
+total=valor*numero
+descuento=total-3000
+if numero >= 5:
+    print("los pares de medias le quedan en",descuento)
+else:
+    print("no tiene descuento, el total es de", total)
