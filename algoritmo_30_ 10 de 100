@@ -1,0 +1,5 @@
+numero=int(input("igrese numero de algoritmos realizados:"))
+if numero >=40:
+    print("aceptados para 10_100")
+else:
+    print("denegado para 10_100")
