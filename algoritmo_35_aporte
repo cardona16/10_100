@@ -1,0 +1,4 @@
+precio=int(input("precio del producto:"))
+personas=int(input("ingrese numero de personas:"))
+total=precio/personas
+print("cada uno tiene que aportar", total)
