@@ -1,0 +1,5 @@
+lenguaje=input("ingrese nombre del lenguaje:")
+if lenguaje=="python":
+    print("es un lenguaje de alto nivel de programación")
+else:
+    print("lo siento no tengo repuesta")
