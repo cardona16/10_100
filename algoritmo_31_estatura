@@ -1,0 +1,5 @@
+estatura=float(input("ingese su estatura:"))
+if estatura >1.50:
+    print("puede entar a la piscina")
+else:
+    print("no puede entar en la piscina")
