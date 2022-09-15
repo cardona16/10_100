@@ -1,0 +1,10 @@
+class ClassTanqueo {
+    public static void main(String[] args) {
+        String[] frutas=new String[4];
+        frutas[0]="manzana";
+        frutas[1]="banano";
+        frutas[2]="pera";
+        frutas[3]="pina";
+        System.out.println("mi fruta favorita es "+ frutas[2]);
+    }
+}
