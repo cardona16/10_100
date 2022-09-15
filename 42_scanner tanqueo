@@ -1,0 +1,12 @@
+// mi primera clase
+import java.util.Scanner;
+class ClassTanqueo {
+    public static void main(String[] args) {
+Scanner sc=new Scanner(System.in);
+System.out.println("ingrese los galones");
+int galon=sc.nextInt();
+System.out.println("ingrese valor galon");
+int precio=sc.nextInt();
+        System.out.println("galones a tanquear "+ (galon*precio));
+    }
+}
